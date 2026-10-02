@@ -32,4 +32,4 @@ The feature will compare Docker Compose environments and highlight:
 - Different image versions
 - Different ports
 - Different environment variables
-- Different volumes
+- Different volume

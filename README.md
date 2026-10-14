@@ -36,13 +36,13 @@ The feature will compare Docker Compose environments and identify:
 
 ## Project Progress
 
-Research Notes
-User Stories
-Acceptance Criteria
+- [x] Research Notes
+- [x] User Stories
+- [x] Acceptance Criteria
 - [x] Product Backlog
 - [x] Architecture Design
-Prototype Development
-CI/CD Workflow
+- [ ] Prototype Development
+- [ ] CI/CD Workflow
 
 ## Repository Structure
 
